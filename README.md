@@ -5,7 +5,8 @@ This is an application I made on Python that takes birthday information from the
 The toughest part was no doubt the calculation of leap years. When a ValueError was raised, Python would raise an error even if the leap year existed. So to by-pass that, I learned that there was a function called suppress.
 
 Learnings: Learned about the suppress function, practiced my conditional and loop statements. I had to come up with unique solutions for leap years, and it was nice training for me.
-Also tried documenting the program very clearly, using comments as I saw necessary.
+
+Also tried documenting the program very clearly, using comments as I saw necessary. Although there is a lot of nesting going on with hours, seconds and so forth, I think in this particular instance it is not necessarily confusing.
 
 I programmed this application without following any tutorials. I only read documentation and skimmed the web for possible solutions to specific problems I encountered.
 
