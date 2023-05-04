@@ -7,6 +7,8 @@ The toughest part was no doubt the calculation of leap years. When a ValueError 
 Learnings: Learned about the suppress function, practiced my conditional and loop statements. I had to come up with unique solutions for leap years, and it was nice training for me.
 Also tried documenting the program very clearly, using comments as I saw necessary.
 
+I programmed this application without following any tutorials. I only read documentation and skimmed the web for possible solutions to specific problems I encountered.
+
 Example photo of the application in use:
 ![BirthdayCountdown](https://user-images.githubusercontent.com/87648450/132882477-9b3406ec-4727-4a65-bc75-d8fdcf02df04.PNG)
 
